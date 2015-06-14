@@ -1,0 +1,60 @@
+.slide table th, .slide table td {
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.slide table {
+    margin: 0;
+}
+
+.slide table .invisibleCell {
+    border: 0;
+    background: none;
+}
+
+.slide div {
+    padding-top: 30px;
+}
+
+.padding {
+    padding: 30px 30px 0 90px;
+}
+
+.newBlock {
+    display: inline-block;
+    position: absolute;
+    width: 442px;
+    height: 430px;
+    top: 185px;
+    left: 590px;
+    background: white;
+    line-height: 30px;
+    padding: 10px;
+}
+
+.formula {
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+
+p.formulaTranslate {
+    font-size: 30px;
+    margin: 0;
+}
+
+p.note {
+    text-align: right;
+    font-size: 19px;
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+    margin-top: -10px;
+}
+
+p.text {
+    margin-bottom: 0;
+    text-indent: 4%;
+    text-align: justify;
+    line-height: 35px;
+}
